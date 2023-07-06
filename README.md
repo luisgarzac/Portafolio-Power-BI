@@ -11,3 +11,7 @@ Ligas públicas a Proyectos de Power BI
 ## Reporte de Mortalidad Infantil y Esperanza de Vida de Poblaciones por área
 
 *  https://app.powerbi.com/view?r=eyJrIjoiZmRmODc4NmMtNjljNy00NDYwLTkwZjUtOTY1NGVjYWMxODViIiwidCI6IjkyZmZhMzBiLTA1NTUtNGZmNy05ODRlLThmMjE5YmZhN2RmYSIsImMiOjR9
+
+## Reporte de RRHH
+
+*   https://app.powerbi.com/view?r=eyJrIjoiZDYwYmJkMzQtMGYyOS00NTIzLTk3MTAtN2ZiODkwNjY2NzZiIiwidCI6IjkyZmZhMzBiLTA1NTUtNGZmNy05ODRlLThmMjE5YmZhN2RmYSIsImMiOjR9
