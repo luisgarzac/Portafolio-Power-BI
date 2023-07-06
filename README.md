@@ -7,3 +7,7 @@ Ligas públicas a Proyectos de Power BI
 
 ## Proyecto análisis de Ventas de VideoJuegos
 *  https://app.powerbi.com/view?r=eyJrIjoiYjdiNjZjMGItNDkzNy00MzQyLThkNzEtZDIxNzMwMDMxNWI4IiwidCI6IjkyZmZhMzBiLTA1NTUtNGZmNy05ODRlLThmMjE5YmZhN2RmYSIsImMiOjR9
+
+## Reporte de Mortalidad Infantil y Esperanza de Vida de Poblaciones por área
+
+*  https://app.powerbi.com/view?r=eyJrIjoiZmRmODc4NmMtNjljNy00NDYwLTkwZjUtOTY1NGVjYWMxODViIiwidCI6IjkyZmZhMzBiLTA1NTUtNGZmNy05ODRlLThmMjE5YmZhN2RmYSIsImMiOjR9
